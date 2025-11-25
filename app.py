@@ -1,4 +1,4 @@
-a = 7
+a = num
 if a % 2 == 0:
     print("even number")
 else:
